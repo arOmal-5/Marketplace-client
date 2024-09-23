@@ -33,8 +33,8 @@ const Header = () => {
           </Link>
 
 
-          <Link to={'/profile'}>
-          <h6>Profile</h6>
+          <Link to={'/signin'}>
+          <h6>Signin</h6>
           </Link>
         </div>
        </div>
